@@ -1,0 +1,549 @@
+{
+    "Sliders": [
+        {
+             "Id":"01",
+             "Title": "Death On The Nile",
+             "Plot": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum commodi, labore architecto aliquid esse explicabo repellendus optioquisquam voluptas ea nam, blanditiis debitis error quam",
+             "URL": "../slidesImg/death-on-the-nile.jpg"
+         },
+          {
+             "Id":"02",
+             "Title": "Death Stroke",
+             "Plot": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum commodi, labore architecto aliquid esse explicabo repellendus optioquisquam voluptas ea nam, blanditiis debitis error quam",
+             "URL": "../slidesImg/deathstroke.jpg"
+         },
+         {
+             "Id":"03",
+             "Title": "Detective Pikachu",
+             "Plot": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum commodi, labore architecto aliquid esse explicabo repellendus optioquisquam voluptas ea nam, blanditiis debitis error quam",
+             "URL": "../slidesImg/detective-pikachu.jpg"
+         },
+          {
+             "Id":"04",
+             "Title": "Frozen 2",
+             "Plot": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum commodi, labore architecto aliquid esse explicabo repellendus optioquisquam voluptas ea nam, blanditiis debitis error quam",
+             "URL": "../slidesImg/frozen-2.jpg"
+         },
+         {
+             "Id":"05",
+             "Title": "Godzilla vs Kong",
+             "Plot": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum commodi, labore architecto aliquid esse explicabo repellendus optioquisquam voluptas ea nam, blanditiis debitis error quam",
+             "URL": "../slidesImg/godzilla-vs-kong.jpg"
+         }
+     ],
+     "Popular": [
+        {
+             "Id":"01",
+             "Category": "Animation",
+             "URL": "../slidesImg/shrek.jpg"
+         },
+          {
+             "Id":"02",
+             "Category": "Romantic",
+             "URL": "../slidesImg/crazy-rich-asians.jpg"
+         },
+         {
+             "Id":"03",
+             "Category": "Thriller",
+             "URL": "../slidesImg/cruella.jpg"
+         },
+          {
+             "Id":"04",
+             "Category": "TV-Shows",
+             "URL": "../slidesImg/loki.jpg"
+         },
+         {
+             "Id":"05",
+             "Category": "Action",
+             "URL": "../slidesImg/free-guy.jpg"
+         },
+         {
+            "Id":"05",
+            "Category": "Horror",
+            "URL": "../slidesImg/ghostface.jpg"
+        }
+     ],
+     "allMovies":[
+        {
+            "Id": "01",
+            "Title": "3 Lives",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "RunTime": "105 min",
+            "ReleasedDate": "25 Aug 2023",
+            "StarCast": ":Lil Rel Howery, Yvonne Orji, John Cena, Meredith Hagner, Steve Buscemi",
+            "Genre": "Action, Adventure, Comedy, Crime,",
+            "Downloads": " 8304.0",
+            "ImdbRatings": "5.3/10950 votes",
+            "URL": "../slidesImg/3 Lives.jpg"
+        },
+        {
+            "Id": "02",
+            "Title": "365 Days",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "190 min",
+            "ReleasedDate": "32 May 2002",
+            "StarCast": "Damon Salvatore",
+            "Genre": "Romentic",
+            "Downloads": "1209.89",
+            "ImdbRatings": "5.5/41209 votes",
+            "URL": "../slidesImg/365 Days.jpg"
+        },
+        {
+            "Id": "03",
+            "Title": "Alita",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "12 May 2022",
+            "StarCast": "Johny",
+            "Genre": "Action",
+            "Downloads": "1289.889",
+            "ImdbRatings": "5.5/57878 votes",
+            "URL": "../slidesImg/Alita.jpg"
+        },
+        {
+            "Id": "04",
+            "Title": "Anna",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "190 Min",
+            "ReleasedDate": "23 June 2022",
+            "StarCast": "Alita",
+            "Genre": "Action",
+            "Downloads": "12909.89",
+            "ImdbRatings": "4.5/45550 votes",
+            "URL": "../slidesImg/Anna.jpg"
+        },
+        {
+            "Id": "05",
+            "Title": "Appleseed Alpha",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "145  Min",
+            "ReleasedDate": "12 August 2023",
+            "StarCast": "Zinhle Mkhize, Thabo Mbele",
+            "Genre": "Animation, Action",
+            "Downloads": "12233",
+            "ImdbRatings": "3.5/4555.78 votes",
+            "URL": "../slidesImg/Appleseed Alpha.jpg"
+        },
+        {
+            "Id": "06",
+            "Title": "Aquaman",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "190 Min",
+            "ReleasedDate": "05 June 2022",
+            "StarCast": "Sanele Zulu, Olwethu Xulu",
+            "Genre": "Action",
+            "Downloads": "23908",
+            "ImdbRatings": "5.5/45553.90 votes",
+            "URL": "../slidesImg/Aquaman.jpg"
+        },
+        {
+            "Id": "07",
+            "Title": "Avengers",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "3 Hours",
+            "ReleasedDate": "03 November 2022",
+            "StarCast": "Vusi Khuzwayo, Elina Sibisi",
+            "Genre": "Action",
+            "Downloads": "3443344",
+            "ImdbRatings": "9.10/600664 .90 votes",
+            "URL": "../slidesImg/Avengers.jpg"
+        },
+        {
+            "Id": "08",
+            "Title": "Beauty and Beast",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "102 Min",
+            "ReleasedDate": "18 July 2023",
+            "StarCast": "Thandeka Xulu",
+            "Genre": "Romentic",
+            "Downloads": "230032",
+            "ImdbRatings": "5.5/34004 votes",
+            "URL": "../slidesImg/Beauty and Beast.jpg"
+        },
+        {
+            "Id": "09",
+            "Title": "Birds Of Pray",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "180 Min",
+            "ReleasedDate": "23 May 2023",
+            "StarCast": "Zama Mhize",
+            "Genre": "Action",
+            "Downloads": "",
+            "ImdbRatings": "",
+            "URL": "../slidesImg/Birds Of Pray.jpg"
+        },
+        {
+            "Id": "010",
+            "Title": "Black Window",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "145 Mins",
+            "ReleasedDate": "16 January 2023",
+            "StarCast": "Maxoli Khumalo",
+            "Genre": "Action",
+            "Downloads": "122455",
+            "ImdbRatings": "5.5/56555.45 votes",
+            "URL": "../slidesImg/Black Window.jpg"
+        },
+        {
+            "Id": "011",
+            "Title": "Bombshell",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "03 October 2022",
+            "StarCast": "Olwethu Xulu",
+            "Genre": "Action",
+            "Downloads": "32232",
+            "ImdbRatings": "3.5/5644 votes",
+            "URL": "../slidesImg/Bombshell.jpg"
+        },
+        {
+            "Id": "012",
+            "Title": "Captain America",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "3 Hours",
+            "ReleasedDate": "2021",
+            "StarCast": "Siyanda Ngqulunga",
+            "Genre": "Action",
+            "Downloads": "23334.90",
+            "ImdbRatings": "8.10/88989.09 votes",
+            "URL": "../slidesImg/Captain America.jpg"
+        },
+        {
+            "Id": "013",
+            "Title": "Captain Marvel",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "23 July 2020",
+            "StarCast": "Maxoli Mthembu",
+            "Genre": "Action",
+            "Downloads": "45544",
+            "ImdbRatings": "5.5/56065.78 votes",
+            "URL": "../slidesImg/Captain Marvel.jpg"
+        },
+        {
+            "Id": "014",
+            "Title": "Deadpool",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "09 March 2021",
+            "StarCast": "Sizwe Majola",
+            "Genre": "Action",
+            "Downloads": "34434.67",
+            "ImdbRatings": "7.10/233332 votes",
+            "URL": "../slidesImg/Deadpool.jpg"
+        },
+        {
+            "Id": "015",
+            "Title": "Chicago Fire",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "45 Min",
+            "ReleasedDate": "12 May 2009",
+            "StarCast": "Sizwe Majola",
+            "Genre": "Tv Show",
+            "Downloads": "23332.23",
+            "ImdbRatings": "3.3/5454 votes",
+            "URL": "../slidesImg/Chicago Fire.jpg"
+        },
+        {
+            "Id": "016",
+            "Title": "Creed",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "190 Min",
+            "ReleasedDate": "23 May 2021",
+            "StarCast": "Sizwe Majola",
+            "Genre": "Action",
+            "Downloads": "23233.90",
+            "ImdbRatings": "5.5/67676 votes",
+            "URL": "../slidesImg/Creed.jpg"
+        },
+        {
+            "Id": "017",
+            "Title": "The Matrix",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "07 December 2018",
+            "StarCast": "Mthunzi Khuzwayo",
+            "Genre": "Action",
+            "Downloads": "4543390.89",
+            "ImdbRatings": "4.5/600544 votes",
+            "URL": "../slidesImg/The Matrix.jpg"
+        },
+        {
+            "Id": "018",
+            "Title": "Doctor Strange",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "156 Min",
+            "ReleasedDate": "20 June 2022",
+            "StarCast": "Maxoli Mthembu, Sizwe Majola",
+            "Genre": "Action",
+            "Downloads": "56566.67",
+            "ImdbRatings": "4.5/454455.90 votes",
+            "URL": "../slidesImg/Doctor Strange.jpg"
+        },
+        {
+            "Id": "019",
+            "Title": "Fast and Furious",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "190 Min",
+            "ReleasedDate": "24 November 2021",
+            "StarCast": "Msajero Mbonambi, Maxoli Mthembu",
+            "Genre": "Action",
+            "Downloads": "44343",
+            "ImdbRatings": "4.5/590990 Votes",
+            "URL": "../slidesImg/Fast and Furious.jpg"
+        },
+        {
+            "Id": "0120",
+            "Title": "Frozen-2",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "135 Min",
+            "ReleasedDate": "26 May 2019",
+            "StarCast": "Hlobisile Lushozi, Hlengiwe",
+            "Genre": "Animation",
+            "Downloads": "23223.89",
+            "ImdbRatings": "5.5/89023.78 votes",
+            "URL": "../slidesImg/Frozen-2_.jpg"
+        },
+        {
+            "Id": "0121",
+            "Title": "I Still Believe",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "22 May 2023",
+            "StarCast": "Sanele Mkhize",
+            "Genre": "Romentic",
+            "Downloads": "34343",
+            "ImdbRatings": "5.5/445545.67 votes",
+            "URL": "../slidesImg/I Still Believe.jpg"
+        },
+        {
+            "Id": "0122",
+            "Title": "Isabelle",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "156 Min",
+            "ReleasedDate": "10 June 2018",
+            "StarCast": "Thabile Ntuli",
+            "Genre": "Horror",
+            "Downloads": "343443",
+            "ImdbRatings": "5.5/455444 votes",
+            "URL": "../slidesImg/Isabelle.jpg"
+        },
+        {
+            "Id": "0123",
+            "Title": "John Wick",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "3 Hours",
+            "ReleasedDate": "05 April 2020",
+            "StarCast": "Sanele Mkhize, Nosipho Ngubane",
+            "Genre": "Action",
+            "Downloads": "56556.90",
+            "ImdbRatings": "5.10/440443 votes",
+            "URL": "../slidesImg/John Wick.jpg"
+        },
+        {
+            "Id": "0124",
+            "Title": "Kung-fu Panda",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "126 Min",
+            "ReleasedDate": "23 June 2023",
+            "StarCast": "Nosipho Ngubane, Msajero Mbonambi",
+            "Genre": "Animation, Adventure",
+            "Downloads": "23123",
+            "ImdbRatings": "5.5/56655 votes",
+            "URL": "../slidesImg/Kung-fu Panda.jpg"
+        },
+        {
+            "Id": "0125",
+            "Title": "Lion King",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "178 Min",
+            "ReleasedDate": "12 September 2017",
+            "StarCast": "Bheki Magaye Cele, Sizwe Majola",
+            "Genre": "Action, Adventure",
+            "Downloads": "4544",
+            "ImdbRatings": "2.5/34443 votes",
+            "URL": "../slidesImg/Lion King.jpg"
+        },
+        {
+            "Id": "0126",
+            "Title": "Grinch",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "145 Min",
+            "ReleasedDate": "14 May 2021",
+            "StarCast": "Mlungisi Mtolo",
+            "Genre": "Animation",
+            "Downloads": "45490",
+            "ImdbRatings": "5.5/343343 votes",
+            "URL": "../slidesImg/Grinch.jpg"
+        },
+        {
+            "Id": "0127",
+            "Title": "Pretty Little Liars",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "40 Min",
+            "ReleasedDate": "23 May 2021",
+            "StarCast": "Nosipho Ngubane",
+            "Genre": "Tv Show",
+            "Downloads": "454554",
+            "ImdbRatings": "2.8/232245 votes",
+            "URL": "../slidesImg/Pretty Little Liars.jpg"
+        },
+        {
+            "Id": "0128",
+            "Title": "Logan",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "19 March 2018",
+            "StarCast": "Sizwe Majola",
+            "Genre": "Action",
+            "Downloads": "189990",
+            "ImdbRatings": "5.5/45554.56 votes",
+            "URL": "../slidesImg/Logan.jpg"
+        },
+        {
+            "Id": "0129",
+            "Title": "Lucifer",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "45 Min",
+            "ReleasedDate": "20 June 2022",
+            "StarCast": "V Xulu, Olwethu Khephe",
+            "Genre": "Tv Show",
+            "Downloads": "5665656",
+            "ImdbRatings": "8.10/34332345 votes",
+            "URL": "../slidesImg/Lucifer.jpg"
+        },
+        {
+            "Id": "0130",
+            "Title": "Rampage",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "19 November 2022",
+            "StarCast": "Mxolisi Mhlongo",
+            "Genre": "Action",
+            "Downloads": "3443444",
+            "ImdbRatings": "8.10/566566 votes",
+            "URL": "../slidesImg/Rampage.jpg"
+        },
+        {
+            "Id": "0131",
+            "Title": "Ready Or Not",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "150 Min",
+            "ReleasedDate": "23 May 2021",
+            "StarCast": "Nosipho Ngubane",
+            "Genre": "Horror",
+            "Downloads": "126764 90",
+            "ImdbRatings": "5.5/5665544 votes",
+            "URL": "../slidesImg/Ready Or Not.jpg"
+        },
+        {
+            "Id": "0132",
+            "Title": "Sonic",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "145 Min",
+            "ReleasedDate": "23 August 2022",
+            "StarCast": "Siyanda Ngqulunga",
+            "Genre": "Action, Adventure, Comedy",
+            "Downloads": "7878545",
+            "ImdbRatings": "5.10/3434 votes",
+            "URL": "../slidesImg/Sonic.jpg"
+        },
+        {
+            "Id": "0133",
+            "Title": "Seriouly Single",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "170 Min",
+            "ReleasedDate": "12 June 2017",
+            "StarCast": "Ntokozo Njapha, Nosipho Ngubane",
+            "Genre": "Romentic, Comedy",
+            "Downloads": "676654",
+            "ImdbRatings": "5.7/54454 votes",
+            "URL": "../slidesImg/Seriouly Single.jpg"
+        },
+        {
+            "Id": "0134",
+            "Title": "Spider Man",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "160 Min",
+            "ReleasedDate": "04 January 2021",
+            "StarCast": "Mlugisi Mtolo",
+            "Genre": "Action",
+            "Downloads": "564366",
+            "ImdbRatings": "3.5/343544 votes",
+            "URL": "../slidesImg/Spider Man.jpg"
+        },
+        {
+            "Id": "0135",
+            "Title": "Super Man vs Batman",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "135 Min",
+            "ReleasedDate": "24 March 2021",
+            "StarCast": "Sanele Mkhize, Sizwe Majola",
+            "Genre": "Action",
+            "Downloads": "1234458",
+            "ImdbRatings": "4.5/454333 votes",
+            "URL": "../slidesImg/Super Man vs Batman.jpg"
+        },
+        {
+            "Id": "0136",
+            "Title": "The Greatest Showman",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "12 June 2017",
+            "StarCast": "Victor Maswidi Xaba",
+            "Genre": "Adventure, Comedy",
+            "Downloads": "4544332",
+            "ImdbRatings": "4.5/786765 votes",
+            "URL": "../slidesImg/The Greatest Showman.jpg"
+        },
+        {
+            "Id": "0137",
+            "Title": "Wanda Woman",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "2 Hours",
+            "ReleasedDate": "03 June 2018",
+            "StarCast": "Thabile Ntuli",
+            "Genre": "Action",
+            "Downloads": "877654.78",
+            "ImdbRatings": "4.5/5433389 votes",
+            "URL": "../slidesImg/Wanda Woman.jpg"
+        },
+        {
+            "Id": "0138",
+            "Title": "The Old Guard",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "145 Min",
+            "ReleasedDate": "31 March 2020",
+            "StarCast": "Nosipho Ngubane",
+            "Genre": "Action",
+            "Downloads": "89876443",
+            "ImdbRatings": "6.10/785434 votes",
+            "URL": "../slidesImg/The Old Guard.jpg"
+        },
+        {
+            "Id": "0139",
+            "Title": "The Vampire Diaries",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "45 Min",
+            "ReleasedDate": "26 May 2019",
+            "StarCast": "Ntokozo Njapha, Nosipho Ngubane",
+            "Genre": "Tv Show",
+            "Downloads": "786589",
+            "ImdbRatings": "5.5/343435.89 votes",
+            "URL": "../slidesImg/The Vampire Diaries.jpg"
+        },
+        {
+            "Id": "0140",
+            "Title": "Toy Story",
+            "Plot": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "RunTime": "156 Min",
+            "ReleasedDate": "14 February 2022",
+            "StarCast": "Vusi Dumakude",
+            "Genre": "Animation",
+            "Downloads": "566565",
+            "ImdbRatings": "3.5/45545.56 votes",
+            "URL": "../slidesImg/Toy Story.jpg"
+        }
+        
+     ]
+}
